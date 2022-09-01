@@ -1,0 +1,1 @@
+export const MONGO_URL="mongodb+srv://<username>:<password>@cluster0.xbwwq.mongodb.net/?retryWrites=true&w=majority";
